@@ -1,0 +1,1200 @@
+[{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058112"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 100000,
+  "NOMBRE CUENTA": "ACTIVO",
+  "VALOR EN PESOS": "$    90,917,041,945"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058113"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 110000,
+  "NOMBRE CUENTA": "EFECTIVO Y EQUIVALENTE AL EFECTIVO",
+  "VALOR EN PESOS": "$    16,035,117,987"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058114"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 110500,
+  "NOMBRE CUENTA": "CAJA",
+  "VALOR EN PESOS": "$    32,108,000"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058115"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 110505,
+  "NOMBRE CUENTA": "CAJA GENERAL",
+  "VALOR EN PESOS": "$    31,508,000"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058116"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 110510,
+  "NOMBRE CUENTA": "CAJA MENOR",
+  "VALOR EN PESOS": "$    600,000"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058117"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 111000,
+  "NOMBRE CUENTA": "BANCOS Y OTRAS ENTIDADES CON ACTIVIDAD FINANCIERA",
+  "VALOR EN PESOS": "$    7,413,077,672"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058118"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 111005,
+  "NOMBRE CUENTA": "BANCOS COMERCIALES",
+  "VALOR EN PESOS": "$    7,413,077,672"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058119"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 111500,
+  "NOMBRE CUENTA": "EQUIVALENTES AL  EFECTIVO (compromiso de pago)",
+  "VALOR EN PESOS": "$    8,589,932,315"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05811a"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 111510,
+  "NOMBRE CUENTA": "INVERSIONES A CORTO PLAZO, CLASIFICADOS COMO EQUIVALENTES AL EFECTIVO",
+  "VALOR EN PESOS": "$    7,829,548,964"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05811b"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 111515,
+  "NOMBRE CUENTA": "FONDOS FIDUCIARIOS A LA VISTA",
+  "VALOR EN PESOS": "$    760,383,351"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05811c"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 120000,
+  "NOMBRE CUENTA": "INVERSIONES",
+  "VALOR EN PESOS": "$    11,698,432,837"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05811d"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 120300,
+  "NOMBRE CUENTA": "FONDO DE LIQUIDEZ",
+  "VALOR EN PESOS": "$    8,992,550,447"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05811e"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 120305,
+  "NOMBRE CUENTA": "TÍTULOS EMITIDOS AVALADOS, ACEPTADOS O GARANTIZADOS POR INSTITUCIONES VIGILADAS POR LA SUPERINTENDENCIA FINANCIERA",
+  "VALOR EN PESOS": "$    8,992,550,447"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05811f"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 122600,
+  "NOMBRE CUENTA": "OTRAS INVERSIONES EN INSTRUMENTOS DE PATRIMONIO",
+  "VALOR EN PESOS": "$    9,632,610"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058120"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 122603,
+  "NOMBRE CUENTA": "APORTES EN ASOCIACIONES O AGREMIACIONES",
+  "VALOR EN PESOS": "$    9,632,610"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058121"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 122800,
+  "NOMBRE CUENTA": "INVERSIONES CONTABILIZADAS A COSTO AMORTIZADO",
+  "VALOR EN PESOS": "$    2,696,249,780"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058122"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 122811,
+  "NOMBRE CUENTA": "TÍTULOS EMITIDOS, AVALADOS, ACEPTADOS O GARANTIZADOS POR INSTITUCIONES VIGILADAS POR LA SUPERINTENDENCIA FINANCIERA ( INCLUIDOS LOS BONOS OBLIGATORIA U OPCIONALMENTE CONVERTIBLES EN ACCIONES",
+  "VALOR EN PESOS": "$    2,696,249,780"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058123"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 140000,
+  "NOMBRE CUENTA": "CARTERA DE CRÉDITOS",
+  "VALOR EN PESOS": "$    60,271,132,474"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058124"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 140400,
+  "NOMBRE CUENTA": "CRÉDITOS DE VIVIENDA - CON LIBRANZA",
+  "VALOR EN PESOS": "$    30,223,337,239"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058125"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 140405,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL",
+  "VALOR EN PESOS": "$    30,223,337,239"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058126"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 140500,
+  "NOMBRE CUENTA": "CRÉDITOS DE VIVIENDA - SIN LIBRANZA",
+  "VALOR EN PESOS": "$    1,562,520,414"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058127"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 140505,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL",
+  "VALOR EN PESOS": "$    1,562,520,414"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058128"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 140600,
+  "NOMBRE CUENTA": "INTERESES CRÉDITOS DE VIVIENDA",
+  "VALOR EN PESOS": "$    7,113,577"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058129"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 140605,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL",
+  "VALOR EN PESOS": "$    7,113,263"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05812a"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 140625,
+  "NOMBRE CUENTA": "CATEGORÍA E RIESGO DE INCOBRABILIDAD",
+  "VALOR EN PESOS": "$    314"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05812b"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 141100,
+  "NOMBRE CUENTA": "CRÉDITOS DE CONSUMO, GARANTÍA ADMISIBLE - CON LIBRANZA",
+  "VALOR EN PESOS": "$    1,684,586,438"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05812c"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 141105,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL",
+  "VALOR EN PESOS": "$    1,684,586,438"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05812d"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 141200,
+  "NOMBRE CUENTA": "CRÉDITOS DE CONSUMO, GARANTÍA ADMISIBLE - SIN LIBRANZA",
+  "VALOR EN PESOS": "$    8,121,552"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05812e"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 141225,
+  "NOMBRE CUENTA": "CATEGORÍA E RIESGO DE INCOBRABILIDAD",
+  "VALOR EN PESOS": "$    8,121,552"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05812f"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144100,
+  "NOMBRE CUENTA": "CRÉDITOS DE CONSUMO, OTRAS GARANTÍAS - CON LIBRANZA",
+  "VALOR EN PESOS": "$    25,569,958,022"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058130"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144105,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL",
+  "VALOR EN PESOS": "$    25,569,958,022"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058131"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144200,
+  "NOMBRE CUENTA": "CRÉDITOS DE CONSUMO, OTRAS GARANTÍAS - SIN LIBRANZA",
+  "VALOR EN PESOS": "$    1,899,001,400"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058132"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144205,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL",
+  "VALOR EN PESOS": "$    1,799,462,939"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058133"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144210,
+  "NOMBRE CUENTA": "CATEGORÍA B RIESGO ACEPTABLE",
+  "VALOR EN PESOS": "$    12,970,089"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058134"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144215,
+  "NOMBRE CUENTA": "CATEGORÍA C RIESGO APRECIABLE",
+  "VALOR EN PESOS": "$    13,786,006"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058135"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144225,
+  "NOMBRE CUENTA": "CATEGORÍA E RIESGO DE INCOBRABILIDAD",
+  "VALOR EN PESOS": "$    72,782,366"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058136"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144300,
+  "NOMBRE CUENTA": "INTERESES CRÉDITOS DE CONSUMO",
+  "VALOR EN PESOS": "$    5,341,451"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058137"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144305,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL",
+  "VALOR EN PESOS": "$    2,592,802"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058138"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144310,
+  "NOMBRE CUENTA": "CATEGORÍA B RIESGO ACEPTABLE",
+  "VALOR EN PESOS": "$    467,073"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058139"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144315,
+  "NOMBRE CUENTA": "CATEGORÍA C RIESGO APRECIABLE",
+  "VALOR EN PESOS": "$    240,114"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05813a"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144325,
+  "NOMBRE CUENTA": "CATEGORÍA E RIESGO DE INCOBRABILIDAD",
+  "VALOR EN PESOS": "$    2,041,462"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05813b"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144500,
+  "NOMBRE CUENTA": "DETERIORO CRÉDITOS DE CONSUMO (CR)",
+  "VALOR EN PESOS": "$    89,103,085"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05813c"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144510,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL OTRAS GARANTÍAS",
+  "VALOR EN PESOS": "$    7,830,314"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05813d"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144520,
+  "NOMBRE CUENTA": "CATEGORÍA B RIESGO ACEPTABLE OTRAS GARANTÍAS",
+  "VALOR EN PESOS": "$    41,322"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05813e"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144530,
+  "NOMBRE CUENTA": "CATEGORÍA C RIESGO APRECIABLE OTRAS GARANTÍAS",
+  "VALOR EN PESOS": "$    1,378,601"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05813f"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144545,
+  "NOMBRE CUENTA": "CATEGORÍA E RIESGO DE INCOBRABILIDAD GARANTÍA ADMISIBLE",
+  "VALOR EN PESOS": "$    8,121,552"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058140"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144550,
+  "NOMBRE CUENTA": "CATEGORÍA E RIESGO DE INCOBRABILIDAD OTRAS GARANTÍAS",
+  "VALOR EN PESOS": "$    71,731,296"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058141"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144600,
+  "NOMBRE CUENTA": "DETERIORO INTERESES CRÉDITOS DE CONSUMO  (CR)",
+  "VALOR EN PESOS": "$    2,325,509"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058142"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144605,
+  "NOMBRE CUENTA": "CATEGORÍA A RIESGO NORMAL",
+  "VALOR EN PESOS": "$    43,652"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058143"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144615,
+  "NOMBRE CUENTA": "CATEGORÍA C RIESGO APRECIABLE",
+  "VALOR EN PESOS": "$    240,395"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058144"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 144625,
+  "NOMBRE CUENTA": "CATEGORÍA E RIESGO DE INCOBRABILIDAD",
+  "VALOR EN PESOS": "$    2,041,462"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058145"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 31,
+  "NIT": "860-516-532-2",
+  "CODRENGLON": 511002,
+  "NOMBRE CUENTA": "IMPUESTOS",
+  "VALOR EN PESOS": "$    4,140,000"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058146"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 146800,
+  "NOMBRE CUENTA": "DETERIORO GENERAL DE CARTERA DE CRÉDITOS (CR)",
+  "VALOR EN PESOS": "$    747,982,861"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058147"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 146805,
+  "NOMBRE CUENTA": "DETERIORO GENERAL DE CARTERA DE CRÉDITOS (CR)",
+  "VALOR EN PESOS": "$    747,982,861"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058148"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 147300,
+  "NOMBRE CUENTA": "CONVENIOS POR COBRAR",
+  "VALOR EN PESOS": "$    150,563,835"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058149"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 147305,
+  "NOMBRE CUENTA": "SERVICIOS MÉDICOS Y HOSPITALARIOS",
+  "VALOR EN PESOS": "$    3,212,071"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05814a"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 147315,
+  "NOMBRE CUENTA": "MEDICINA PREPAGADA",
+  "VALOR EN PESOS": "$    44,292,981"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05814b"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 147320,
+  "NOMBRE CUENTA": "SERVICIOS FUNERARIOS",
+  "VALOR EN PESOS": "$    583,080"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05814c"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 147325,
+  "NOMBRE CUENTA": "SEGURO VOLUNTARIO - VEHÍCULO",
+  "VALOR EN PESOS": "$    4,101,825"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05814d"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 147330,
+  "NOMBRE CUENTA": "SEGURO OBLIGATORIO - SOAT",
+  "VALOR EN PESOS": "$    96,063,725"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05814e"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 147395,
+  "NOMBRE CUENTA": "OTROS CONVENIOS",
+  "VALOR EN PESOS": "$    2,310,153"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05814f"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 160000,
+  "NOMBRE CUENTA": "CUENTAS POR COBRAR Y OTRAS",
+  "VALOR EN PESOS": "$    456,790,454"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058150"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 163000,
+  "NOMBRE CUENTA": "AVANCES Y ANTICIPOS ENTREGADOS",
+  "VALOR EN PESOS": "$    30,290,656"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058151"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 163095,
+  "NOMBRE CUENTA": "OTROS",
+  "VALOR EN PESOS": "$    30,290,656"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058152"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 164000,
+  "NOMBRE CUENTA": "ACTIVOS POR IMPUESTOS CORRIENTES",
+  "VALOR EN PESOS": "$    311,556"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058153"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 164015,
+  "NOMBRE CUENTA": "IMPUESTO A LAS VENTAS RETENIDO",
+  "VALOR EN PESOS": "$    227,626"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058154"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 164020,
+  "NOMBRE CUENTA": "IMPUESTO DE INDUSTRIA Y COMERCIO RETENIDO",
+  "VALOR EN PESOS": "$    83,930"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058155"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 165000,
+  "NOMBRE CUENTA": "DEUDORES PATRONALES Y EMPRESAS",
+  "VALOR EN PESOS": "$    362,573,252"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058156"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 165005,
+  "NOMBRE CUENTA": "DESCUENTO DE NOMINA",
+  "VALOR EN PESOS": "$    362,573,252"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058157"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 166000,
+  "NOMBRE CUENTA": "OTRAS CUENTAS POR COBRAR",
+  "VALOR EN PESOS": "$    63,614,990"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058158"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 166035,
+  "NOMBRE CUENTA": "CUENTAS POR COBRAR DE TERCEROS",
+  "VALOR EN PESOS": "$    64,527,551"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058159"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 166050,
+  "NOMBRE CUENTA": "OTROS",
+  "VALOR EN PESOS": "$    204,386"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05815a"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 166099,
+  "NOMBRE CUENTA": "DETERIORO OTRAS CUENTAS POR COBRAR (CR)",
+  "VALOR EN PESOS": "$    1,116,947"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05815b"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 170000,
+  "NOMBRE CUENTA": "ACTIVOS MATERIALES",
+  "VALOR EN PESOS": "$    2,431,048,193"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05815c"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 170500,
+  "NOMBRE CUENTA": "PROPIEDADES, PLANTA Y EQUIPO",
+  "VALOR EN PESOS": "$    2,431,048,193"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05815d"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 170502,
+  "NOMBRE CUENTA": "TERRENOS",
+  "VALOR EN PESOS": "$    159,042,654"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05815e"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 170504,
+  "NOMBRE CUENTA": "EDIFICACIONES",
+  "VALOR EN PESOS": "$    2,485,381,240"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05815f"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 170505,
+  "NOMBRE CUENTA": "MUEBLES Y EQUIPO DE OFICINA",
+  "VALOR EN PESOS": "$    205,094,907"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058160"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 170520,
+  "NOMBRE CUENTA": "EQUIPO DE CÓMPUTO Y COMUNICACIÓN",
+  "VALOR EN PESOS": "$    122,738,465"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058161"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 170595,
+  "NOMBRE CUENTA": "DEPRECIACIÓN, AGOTAMIENTO PROPIEDAD, PLANTA Y EQUIPO (CR)",
+  "VALOR EN PESOS": "$    541,209,073"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058162"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 190000,
+  "NOMBRE CUENTA": "OTROS ACTIVOS",
+  "VALOR EN PESOS": "$    24,520,000"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058163"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 191000,
+  "NOMBRE CUENTA": "ACTIVOS INTANGIBLES ADQUIRIDOS",
+  "VALOR EN PESOS": "$    24,520,000"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058164"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 191020,
+  "NOMBRE CUENTA": "DERECHOS",
+  "VALOR EN PESOS": "$    24,520,000"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058165"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 200000,
+  "NOMBRE CUENTA": "PASIVOS",
+  "VALOR EN PESOS": "$    79,835,102,347"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058166"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 210000,
+  "NOMBRE CUENTA": "DEPÓSITOS",
+  "VALOR EN PESOS": "$    78,553,536,345"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058167"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 210500,
+  "NOMBRE CUENTA": "DEPÓSITOS DE AHORRO",
+  "VALOR EN PESOS": "$    23,700,298,533"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058168"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 210505,
+  "NOMBRE CUENTA": "ORDINARIOS ACTIVAS",
+  "VALOR EN PESOS": "$    23,700,298,533"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058169"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 213000,
+  "NOMBRE CUENTA": "DEPÓSITOS DE AHORRO PERMANENTE",
+  "VALOR EN PESOS": "$    54,853,237,812"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05816a"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 213010,
+  "NOMBRE CUENTA": "DEPÓSITOS A LARGO PLAZO",
+  "VALOR EN PESOS": "$    54,439,356,127"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05816b"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 213095,
+  "NOMBRE CUENTA": "INTERESES DEPÓSITOS DE AHORRO PERMANENTE",
+  "VALOR EN PESOS": "$    413,881,685"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05816c"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 240000,
+  "NOMBRE CUENTA": "CUENTAS POR PAGAR Y OTRAS",
+  "VALOR EN PESOS": "$    1,133,744,641"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05816d"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 241000,
+  "NOMBRE CUENTA": "COSTOS Y GASTOS POR PAGAR",
+  "VALOR EN PESOS": "$    68,558,190"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05816e"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 241095,
+  "NOMBRE CUENTA": "OTROS",
+  "VALOR EN PESOS": "$    68,558,190"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad05816f"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 243000,
+  "NOMBRE CUENTA": "GRAVAMEN DE LOS MOVIMIENTOS FINANCIEROS",
+  "VALOR EN PESOS": "$    3,799,357"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058170"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 243015,
+  "NOMBRE CUENTA": "SOBRE DEPÓSITOS DE AHORRO CONTRACTUAL",
+  "VALOR EN PESOS": "$    3,799,357"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058171"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 243500,
+  "NOMBRE CUENTA": "RETENCIÓN EN LA FUENTE",
+  "VALOR EN PESOS": "$    17,927,768"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058172"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 243505,
+  "NOMBRE CUENTA": "SALARIOS Y PAGOS LABORALES",
+  "VALOR EN PESOS": "$    989,237"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058173"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 243515,
+  "NOMBRE CUENTA": "HONORARIOS",
+  "VALOR EN PESOS": "$    357,642"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058174"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 243525,
+  "NOMBRE CUENTA": "SERVICIOS",
+  "VALOR EN PESOS": "$    844,798"
+},
+{
+  "_id": {
+    "$oid": "672e3cc378ed0fe5ad058175"
+  },
+  "AÑO": 2022,
+  "MES": "ENERO",
+  "CODIGO ENTIDAD": 13,
+  "NIT": "860-016-249-7",
+  "CODRENGLON": 243535,
+  "NOMBRE CUENTA": "RENDIMIENTOS FINANCIEROS",
+  "VALOR EN PESOS": "$    15,623,113"
+}],
